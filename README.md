@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm NAMELESS 👋
 
-<!--
-**BhoneThitKha27/BhoneThitKha27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Mechanical Engineering Student
 
-Here are some ideas to get you started:
+## 🌱 Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* SolidWorks
+* Frontend Development
+* Databases & SQL
+
+## 🚀 About Me
+
+I enjoy learning new skills, building projects, and improving step by step. My focus is on combining engineering knowledge with technology and software development.
+
+## 🎯 Goals
+
+* Improve my design skills with SolidWorks
+* Build web
+* Develop strong database fundamentals
+* Keep learning and growing every day
+
+> 💻 Always learning. Always building.
