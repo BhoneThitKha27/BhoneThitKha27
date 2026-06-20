@@ -4,7 +4,7 @@
 
 ## 🌱 Currently Learning
 
-* SolidWorks
+* SolidWorks ![SolidWorks](https://img.shields.io/badge/SolidWorks-FF0000?style=for-the-badge&logo=dassaultsystemes&logoColor=white)
 * Frontend Development
 * Databases & SQL
 
