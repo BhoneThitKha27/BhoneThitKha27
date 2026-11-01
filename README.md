@@ -43,13 +43,6 @@
 
 ---
 
-<p align="center">
-  <img src="https://img.shields.io/badge/always_learning-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
-  <img src="https://img.shields.io/badge/always_exploring-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
-</p>
-
----
-
 ## 💻 Most Used Languages
 
 <p align="center">
@@ -57,6 +50,11 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://img.shields.io/badge/always_learning-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
+  <img src="https://img.shields.io/badge/always_exploring-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Learning+Cybersecurity;Exploring+Ethical+Hacking;Building+My+Future" />
