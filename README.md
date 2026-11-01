@@ -15,11 +15,15 @@
 
 ### <img src="https://img.shields.io/badge/ABOUT_ME-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
 
-interested in cybersecurity and ethical hacking. currently building my technical knowledge and exploring how systems work and how to secure them.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=650&height=80&lines=Interested+in+Cybersecurity+and+Ethical+Hacking;Building+My+Technical+Knowledge;Exploring+How+Systems+Work+and+How+to+Secure+Them" />
+</p>
 
 ### <img src="https://img.shields.io/badge/MY_GOAL-1e1e2e?style=flat-square&labelColor=1e1e2e&color=f5c2e7" />
 
-to become a skilled ethical hacker through continuous learning, hands-on practice, and real-world problem-solving.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=650&height=80&lines=Becoming+a+Skilled+Ethical+Hacker;Learning+Through+Hands-on+Practice;Solving+Real-World+Problems" />
+</p>
 
 ### <img src="https://img.shields.io/badge/CURRENTLY_LEARNING-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
 
@@ -54,3 +58,6 @@ to become a skilled ethical hacker through continuous learning, hands-on practic
 
 ---
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Learning+Cybersecurity;Exploring+Ethical+Hacking;Building+My+Future" />
+</p>
