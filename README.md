@@ -43,3 +43,14 @@ to become a skilled ethical hacker through continuous learning, hands-on practic
   <img src="https://img.shields.io/badge/always_learning-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
   <img src="https://img.shields.io/badge/always_exploring-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
 </p>
+
+---
+
+## 💻 Most Used Languages
+
+<p align="center">
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BhoneThitKha27&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&card_width=500" />
+</p>
+
+---
+
