@@ -8,7 +8,7 @@ hi, i'm nameless 👋
 
 🔐 areas of interest
 
-""ethical hacking" (https://img.shields.io/badge/ethical_hacking-2C2C2C?style=for-the-badge&logo=hackthebox&logoColor=white)" (https://www.hackthebox.com/) ""penetration testing" (https://img.shields.io/badge/penetration_testing-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white)" (https://www.kali.org/) ""network security" (https://img.shields.io/badge/network_security-1677C8?style=for-the-badge&logo=wireshark&logoColor=white)" (https://www.wireshark.org/)
+""ethical hacking" (https://img.shields.io/badge/ethical_hacking-2C2C2C?style=for-the-badge&logo=hackthebox&logoColor=white)" (https://www.hackthebox.com/) ""penetration testing" (https://img.shields.io/badge/penetration_testing-8B0000?style=for-the-badge&logo=kalilinux&logoColor=white)" (https://www.kali.org/)
 
 🛠️ tools & technologies
 
@@ -17,11 +17,5 @@ hi, i'm nameless 👋
 📖 learning platforms
 
 ""cisco netacad" (https://img.shields.io/badge/cisco_netacad-049FD9?style=for-the-badge&logo=cisco&logoColor=white)" (https://www.netacad.com/) ""tryhackme" (https://img.shields.io/badge/tryhackme-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)" (https://tryhackme.com/) ""hack the box" (https://img.shields.io/badge/hack_the_box-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)" (https://www.hackthebox.com/)
-
-📊 github statistics
-
-"github stats" (https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true)
-
-"top languages" (https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true)
 
 «🔐 always learning. always exploring.»
