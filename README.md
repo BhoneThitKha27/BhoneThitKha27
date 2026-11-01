@@ -2,6 +2,14 @@
 
 🎓 fourth-year mechanical engineering student
 
+## 👨‍💻 about me
+
+interested in cybersecurity and ethical hacking. currently building my technical knowledge and exploring how systems work and how to secure them.
+
+## 🎯 my goal
+
+to become a skilled ethical hacker through continuous learning, hands-on practice, and real-world problem-solving.
+
 ## 🌱 currently learning
 
 [![cybersecurity](https://img.shields.io/badge/cybersecurity-181717?style=for-the-badge)](https://www.kali.org/) [![linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge)](https://www.linux.org/)
