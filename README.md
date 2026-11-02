@@ -43,12 +43,18 @@
 [![cybersecurity](https://img.shields.io/badge/cybersecurity-cba6f7?style=for-the-badge&labelColor=1e1e2e)](https://www.kali.org/)
 [![linux](https://img.shields.io/badge/linux-94e2d5?style=for-the-badge&labelColor=1e1e2e)](https://www.linux.org/)
 
-### <img src="https://img.shields.io/badge/AREAS_OF_INTEREST-1e1e2e?style=flat-square&labelColor=1e1e2e&color=f38ba8" />
+<p align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="35" alt="Brain" />
+  <img src="https://img.shields.io/badge/AREAS_OF_INTEREST-1e1e2e?style=flat-square&labelColor=1e1e2e&color=f38ba8" />
+</p>
 
 [![ethical hacking](https://img.shields.io/badge/ethical_hacking-f5c2e7?style=for-the-badge&labelColor=1e1e2e)](https://www.hackthebox.com/)
 [![penetration testing](https://img.shields.io/badge/penetration_testing-f38ba8?style=for-the-badge&labelColor=1e1e2e)](https://www.kali.org/)
 
-### <img src="https://img.shields.io/badge/LEARNING_PLATFORMS-1e1e2e?style=flat-square&labelColor=1e1e2e&color=89b4fa" />
+<p align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="35" alt="Books" />
+  <img src="https://img.shields.io/badge/LEARNING_PLATFORMS-1e1e2e?style=flat-square&labelColor=1e1e2e&color=89b4fa" />
+</p>
 
 [![cisco netacad](https://img.shields.io/badge/cisco_netacad-89b4fa?style=for-the-badge&labelColor=1e1e2e)](https://www.netacad.com/)
 [![tryhackme](https://img.shields.io/badge/tryhackme-fab387?style=for-the-badge&labelColor=1e1e2e)](https://tryhackme.com/)
@@ -56,7 +62,10 @@
 
 ---
 
-## 💻 Most Used Languages
+<h2 align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="35" alt="Laptop" />
+  Most Used Languages
+</h2>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BhoneThitKha27&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&card_width=500" />
