@@ -1,6 +1,6 @@
 <!-- CATPPUCCIN MOCHA HEADER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e1e2e,50:45475a,100:cba6f7&text=NAMELESS&fontColor=cdd6f4&fontSize=55&fontAlignY=38&desc=Still%20becoming%20the%20person%20I%20promised%20myself%20I%27d%20be.&descAlignY=60&descSize=14&descColor=f5c2e7" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:11111b,15:1e1e2e,35:313244,55:45475a,75:585b70,100:cba6f7&text=NAMELESS&fontColor=cdd6f4&fontSize=55&fontAlignY=38&desc=Still%20becoming%20the%20person%20I%20promised%20myself%20I%27d%20be.&descAlignY=60&descSize=14&descColor=f5c2e7&animation=twinkling" width="100%" />
 </p>
 
 <h1 align="center">
