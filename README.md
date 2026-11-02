@@ -4,9 +4,9 @@
 </p>
 
 <h1 align="center">
-  <font color="#b4befe">Hi</font>
+  <span style="color:#B4BEFE;">Hi</span>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35" alt="Waving hand" />
-  <font color="#b4befe">, I'm NAMELESS</font>
+  <span style="color:#B4BEFE;">, I'm NAMELESS</span>
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" alt="Waving hand" />
 </h1>
 
