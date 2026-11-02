@@ -17,7 +17,10 @@
 
 ---
 
-### <img src="https://img.shields.io/badge/ABOUT_ME-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
+<p align="left">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" alt="Waving cat" />
+  <img src="https://img.shields.io/badge/ABOUT_ME-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=650&height=80&lines=Interested+in+Cybersecurity+and+Ethical+Hacking;Building+My+Technical+Knowledge;Exploring+How+Systems+Work+and+How+to+Secure+Them" />
