@@ -4,11 +4,16 @@
 </p>
 
 <h1 align="center">
-  <font color="#cba6f7">Hi, i'm NAMELESS 👋</font>
+  <font color="#cba6f7">Hi, I'm NAMELESS</font>
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" alt="Waving hand" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Mechanical_Engineering-45475a?style=flat-square&labelColor=1e1e2e&color=89b4fa" />
+  <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="40" alt="Mechanical gears">
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mechanical_Engineering-45475a?style=flat-square&labelColor=1e1e2e&color=89b4fa">
 </p>
 
 ---
