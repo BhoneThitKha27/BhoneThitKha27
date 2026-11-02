@@ -9,11 +9,8 @@
 </h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="40" alt="Mechanical gears">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Mechanical_Engineering-45475a?style=flat-square&labelColor=1e1e2e&color=89b4fa">
+  <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="40" alt="Mechanical gears" />
+  <img src="https://img.shields.io/badge/Mechanical_Engineering-45475a?style=flat-square&labelColor=1e1e2e&color=89b4fa" alt="Mechanical Engineering" />
 </p>
 
 ---
