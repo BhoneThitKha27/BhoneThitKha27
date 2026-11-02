@@ -18,7 +18,6 @@
 ---
 
 <p align="left">
-  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" alt="Waving cat" />
   <img src="https://img.shields.io/badge/ABOUT_ME-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
 </p>
 
@@ -32,7 +31,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=650&height=80&lines=Becoming+a+Skilled+Ethical+Hacker;Learning+Through+Hands-on+Practice;Solving+Real-World+Problems" />
 </p>
 
-### <img src="https://img.shields.io/badge/CURRENTLY_LEARNING-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
+<p align="left">
+  <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" alt="Waving cat" />
+  <img src="https://img.shields.io/badge/CURRENTLY_LEARNING-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
+</p>
 
 [![cybersecurity](https://img.shields.io/badge/cybersecurity-cba6f7?style=for-the-badge&labelColor=1e1e2e)](https://www.kali.org/)
 [![linux](https://img.shields.io/badge/linux-94e2d5?style=for-the-badge&labelColor=1e1e2e)](https://www.linux.org/)
