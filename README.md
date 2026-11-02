@@ -5,8 +5,9 @@
 
 <h1 align="center">
   <font color="#cba6f7">Hi</font>
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" alt="Waving hand" />
+  <img src="https://commons.wikimedia.org/wiki/Special:FilePath/Hand_Gesture_-_Waving.gif" width="35" alt="Waving hand" />
   <font color="#cba6f7">, I'm NAMELESS</font>
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" alt="Waving hand" />
 </h1>
 
 <p align="center">
