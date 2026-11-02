@@ -3,12 +3,12 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:1e1e2e,50:45475a,100:cba6f7&text=NAMELESS&fontColor=cdd6f4&fontSize=55&fontAlignY=38&desc=Still%20becoming%20the%20person%20I%20promised%20myself%20I%27d%20be.&descAlignY=60&descSize=14&descColor=f5c2e7" width="100%" />
 </p>
 
-<h1 align="center">
-  <span style="color:#B4BEFE;">Hi</span>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35" alt="Waving hand" />
-  <span style="color:#B4BEFE;">, I'm NAMELESS</span>
-  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" alt="Waving hand" />
-</h1>
+<div align="center">
+  <img src="https://placehold.co/100x55/000000/B4BEFE?text=Hi&font=roboto&font_size=36" height="55" alt="Hi" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" height="40" alt="Waving hand" />
+  <img src="https://placehold.co/330x55/000000/B4BEFE?text=%2C+I'm+NAMELESS&font=roboto&font_size=36" height="55" alt=", I'm NAMELESS" />
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" height="40" alt="Decoration" />
+</div>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="40" alt="Mechanical gears" />
