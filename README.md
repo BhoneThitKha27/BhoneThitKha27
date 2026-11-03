@@ -40,9 +40,7 @@
   <img src="https://img.shields.io/badge/CURRENTLY_LEARNING-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
 </p>
 
-[![cybersecurity](https://img.shields.io/badge/cybersecurity-cba6f7?style=for-the-badge&labelColor=1e1e2e)](https://www.kali.org/)
-[![linux](https://img.shields.io/badge/linux-94e2d5?style=for-the-badge&labelColor=1e1e2e)](https://www.linux.org/)
-
+[![PROGRAMMING FUNDAMENTALS](https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=code&logoColor=cdd6f4)](https://www.freecodecamp.org/)
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="35" alt="Brain" />
   <img src="https://img.shields.io/badge/AREAS_OF_INTEREST-1e1e2e?style=flat-square&labelColor=1e1e2e&color=f38ba8" />
@@ -56,6 +54,8 @@
   <img src="https://img.shields.io/badge/LEARNING_PLATFORMS-1e1e2e?style=flat-square&labelColor=1e1e2e&color=89b4fa" />
 </p>
 
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-cba6f7?style=for-the-badge&labelColor=1e1e2e)](https://www.freecodecamp.org/)
+[![CS50](https://img.shields.io/badge/CS50-eba0ac?style=for-the-badge&labelColor=1e1e2e)](https://cs50.harvard.edu/)
 [![cisco netacad](https://img.shields.io/badge/cisco_netacad-89b4fa?style=for-the-badge&labelColor=1e1e2e)](https://www.netacad.com/)
 [![tryhackme](https://img.shields.io/badge/tryhackme-fab387?style=for-the-badge&labelColor=1e1e2e)](https://tryhackme.com/)
 [![hack the box](https://img.shields.io/badge/hack_the_box-a6e3a1?style=for-the-badge&labelColor=1e1e2e)](https://www.hackthebox.com/)
