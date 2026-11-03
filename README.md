@@ -17,6 +17,14 @@
 
 ---
 
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1aa5pTJ6HM9UgL0peWvQzlWMmsx-EdfeK" target="_blank">
+    <img src="https://img.shields.io/badge/Click_Here_for_My_Certifications-1e1e2e?style=for-the-badge&labelColor=1e1e2e&color=cba6f7&logo=google-drive&logoColor=cdd6f4" alt="Click Here for My Certifications" />
+  </a>
+</p>
+
+---
+
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="35" alt="Robot" />
   <img src="https://img.shields.io/badge/ABOUT_ME-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
