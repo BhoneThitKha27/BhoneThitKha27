@@ -104,7 +104,7 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows-1e1e2e?style=for-the-badge&logo=windows&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/Windows-1e1e2e?style=for-the-badge&logo=microsoft&logoColor=89b4fa" />
   <img src="https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af" />
 </p>
 
