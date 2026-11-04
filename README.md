@@ -78,9 +78,18 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BhoneThitKha27&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&card_width=500" />
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="35" alt="Light bulb" />
   <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=fab387" />
+  <img src="https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css3&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af" />
+  <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=89dceb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=89b4fa" />
 </p>
 
 ---
