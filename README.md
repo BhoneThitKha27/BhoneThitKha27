@@ -97,6 +97,17 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BhoneThitKha27&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&card_width=500" />
 </p>
 
+
+<p align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f427/512.gif" width="35" alt="Penguin" />
+  <img src="https://img.shields.io/badge/OPERATING_SYSTEMS-cba6f7?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-1e1e2e?style=for-the-badge&logo=windows&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af" />
+</p>
+
 ---
 
 <p align="center">
