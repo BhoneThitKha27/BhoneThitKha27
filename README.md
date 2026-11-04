@@ -118,6 +118,13 @@
 
 ---
 
+<!-- LEETCODE STATS -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/bhonethitkha27?font=Fira_Code&ext=heatmap&colors=1e1e2e,313244,cdd6f4,a6adc8,cba6f7,89b4fa,f5c2e7,94e2d5" />
+</p>
+
+---
+
 <!-- FOOTER -->
 <p align="center">
   <img src="https://img.shields.io/badge/always_learning-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
