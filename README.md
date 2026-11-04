@@ -119,8 +119,8 @@
 ---
 
 <!-- LEETCODE STATS -->
-<p align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5/512.gif" width="35" alt="Desktop computer" />
+<p  ="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3b9/512.gif" width="35" alt="Keyboard" />
   <img src="https://img.shields.io/badge/LEETCODE_STATS-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
@@ -131,6 +131,11 @@
 ---
 
 <!-- HACKERRANK STATS -->
+<p align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="35" alt="Trophy" />
+  <img src="https://img.shields.io/badge/HACKERRANK_STATS-cba6f7?style=flat-square&labelColor=1e1e2e" />
+</p>
+
 <p align="center">
   <img
     src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=bhonethitkha_of1"
