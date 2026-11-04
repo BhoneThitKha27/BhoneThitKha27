@@ -125,6 +125,17 @@
 
 ---
 
+<!-- HACKERRANK STATS -->
+<p align="center">
+  <img
+    src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=bhonethitkha_of1"
+    width="380"
+    alt="HackerRank Stats"
+  />
+</p>
+
+---
+
 <!-- FOOTER -->
 <p align="center">
   <img src="https://img.shields.io/badge/always_learning-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
