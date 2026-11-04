@@ -5,6 +5,7 @@
 
 ---
 
+<!-- INTRODUCTION -->
 <h1 align="center">
   Hi
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35" alt="Waving hand" />
@@ -12,57 +13,62 @@
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" alt="Decorative image" />
 </h1>
 
-
-
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="40" alt="Mechanical gears" />
-  <img src="https://img.shields.io/badge/Mechanical_Engineering-45475a?style=flat-square&labelColor=1e1e2e&color=89b4fa" alt="Mechanical Engineering" />
+  <img src="https://img.shields.io/badge/Mechanical_Engineering-89b4fa?style=flat-square&labelColor=1e1e2e" alt="Mechanical Engineering" />
 </p>
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1aa5pTJ6HM9UgL0peWvQzlWMmsx-EdfeK" target="_blank">
-    <img src="https://img.shields.io/badge/Click_Here_for_My_Certifications-1e1e2e?style=for-the-badge&labelColor=1e1e2e&color=cba6f7&logo=google-drive&logoColor=cdd6f4" alt="Click Here for My Certifications" />
+    <img src="https://img.shields.io/badge/Click_Here_for_My_Certifications-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=google-drive&logoColor=cdd6f4" alt="My Certifications" />
   </a>
 </p>
 
 ---
 
+<!-- ABOUT ME -->
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="35" alt="Robot" />
-  <img src="https://img.shields.io/badge/ABOUT_ME-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
+  <img src="https://img.shields.io/badge/ABOUT_ME-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=650&height=80&lines=Interested+in+Cybersecurity+and+Ethical+Hacking;Building+My+Technical+Knowledge;Exploring+How+Systems+Work+and+How+to+Secure+Them" />
 </p>
 
-
+<!-- MY GOAL -->
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="35" alt="Rocket" />
-  <img src="https://img.shields.io/badge/MY_GOAL-1e1e2e?style=flat-square&labelColor=1e1e2e&color=f5c2e7" />
+  <img src="https://img.shields.io/badge/MY_GOAL-f5c2e7?style=flat-square&labelColor=1e1e2e" />
 </p>
+
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=650&height=80&lines=Becoming+a+Skilled+Ethical+Hacker;Learning+Through+Hands-on+Practice;Solving+Real-World+Problems" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=F5C2E7&center=true&vCenter=true&width=650&height=80&lines=Becoming+a+Skilled+Ethical+Hacker;Learning+Through+Hands-on+Practice;Solving+Real-World+Problems" />
 </p>
 
 ---
 
+<!-- CURRENTLY LEARNING -->
 <p align="left">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" alt="Waving cat" />
-  <img src="https://img.shields.io/badge/CURRENTLY_LEARNING-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
+  <img src="https://img.shields.io/badge/CURRENTLY_LEARNING-94e2d5?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 [![PROGRAMMING FUNDAMENTALS](https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=code&logoColor=cdd6f4)](https://www.freecodecamp.org/)
+
+<!-- AREAS OF INTEREST -->
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="35" alt="Brain" />
-  <img src="https://img.shields.io/badge/AREAS_OF_INTEREST-1e1e2e?style=flat-square&labelColor=1e1e2e&color=f38ba8" />
+  <img src="https://img.shields.io/badge/AREAS_OF_INTEREST-f38ba8?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 [![ethical hacking](https://img.shields.io/badge/ethical_hacking-f5c2e7?style=for-the-badge&labelColor=1e1e2e)](https://www.hackthebox.com/)
 [![penetration testing](https://img.shields.io/badge/penetration_testing-f38ba8?style=for-the-badge&labelColor=1e1e2e)](https://www.kali.org/)
 
+<!-- LEARNING PLATFORMS -->
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="35" alt="Books" />
-  <img src="https://img.shields.io/badge/LEARNING_PLATFORMS-1e1e2e?style=flat-square&labelColor=1e1e2e&color=89b4fa" />
+  <img src="https://img.shields.io/badge/LEARNING_PLATFORMS-89b4fa?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-cba6f7?style=for-the-badge&labelColor=1e1e2e)](https://www.freecodecamp.org/)
@@ -73,44 +79,46 @@
 
 ---
 
+<!-- PROGRAMMING FUNDAMENTALS -->
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="35" alt="Light bulb" />
-  <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
+  <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=fab387" />
-  <img src="https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css3&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af" />
-  <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=89dceb" />
-  <img src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/HTML5-313244?style=for-the-badge&logo=html5&logoColor=fab387" />
+  <img src="https://img.shields.io/badge/CSS3-313244?style=for-the-badge&logo=css3&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/JavaScript-313244?style=for-the-badge&logo=javascript&logoColor=f9e2af" />
+  <img src="https://img.shields.io/badge/Python-313244?style=for-the-badge&logo=python&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/MySQL-313244?style=for-the-badge&logo=mysql&logoColor=89dceb" />
+  <img src="https://img.shields.io/badge/PostgreSQL-313244?style=for-the-badge&logo=postgresql&logoColor=89b4fa" />
 </p>
 
-
+<!-- MOST USED LANGUAGES -->
 <p align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="35" alt="Laptop" />
-  <img src="https://img.shields.io/badge/MOST_USED_LANGUAGES-cba6f7?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
+  <img src="https://img.shields.io/badge/MOST_USED_LANGUAGES-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BhoneThitKha27&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&card_width=500" />
 </p>
 
-
+<!-- OPERATING SYSTEMS -->
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f427/512.gif" width="35" alt="Penguin" />
-  <img src="https://img.shields.io/badge/OPERATING_SYSTEMS-cba6f7?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
+  <img src="https://img.shields.io/badge/OPERATING_SYSTEMS-94e2d5?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows-1e1e2e?style=for-the-badge&logo=windows&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/Debian-1e1e2e?style=for-the-badge&logo=debian&logoColor=f38ba8" />
-  <img src="https://img.shields.io/badge/Ubuntu-1e1e2e?style=for-the-badge&logo=ubuntu&logoColor=fab387" />
+  <img src="https://img.shields.io/badge/Windows-313244?style=for-the-badge&logo=windows&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/Debian-313244?style=for-the-badge&logo=debian&logoColor=f38ba8" />
+  <img src="https://img.shields.io/badge/Ubuntu-313244?style=for-the-badge&logo=ubuntu&logoColor=fab387" />
 </p>
 
 ---
 
+<!-- FOOTER -->
 <p align="center">
   <img src="https://img.shields.io/badge/always_learning-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
   <img src="https://img.shields.io/badge/always_exploring-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
