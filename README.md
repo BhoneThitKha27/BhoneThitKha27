@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:11111b,15:1e1e2e,35:313244,55:45475a,75:585b70,100:cba6f7&text=NAMELESS&fontColor=cdd6f4&fontSize=55&fontAlignY=38&desc=Still%20becoming%20the%20person%20I%20promised%20myself%20I%27d%20be.&descAlignY=60&descSize=14&descColor=f5c2e7&animation=twinkling" width="100%" />
 </p>
 
----
+
 
 <!-- INTRODUCTION -->
 <h1 align="center">
@@ -13,11 +13,13 @@
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" alt="Decorative image" />
 </h1>
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="40" alt="Mechanical gears" />
   <img src="https://img.shields.io/badge/Mechanical_Engineering-89b4fa?style=flat-square&labelColor=1e1e2e" alt="Mechanical Engineering" />
 <img src="https://img.shields.io/badge/Polytechnic_University_of_Mawlamyine-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Polytechnic University of Mawlamyine" />
 </p>
+
 
 <p align="center">
   <a href="https://drive.google.com/drive/folders/1aa5pTJ6HM9UgL0peWvQzlWMmsx-EdfeK" target="_blank">
