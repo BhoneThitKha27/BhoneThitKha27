@@ -3,11 +3,16 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:11111b,15:1e1e2e,35:313244,55:45475a,75:585b70,100:cba6f7&text=NAMELESS&fontColor=cdd6f4&fontSize=55&fontAlignY=38&desc=Still%20becoming%20the%20person%20I%20promised%20myself%20I%27d%20be.&descAlignY=60&descSize=14&descColor=f5c2e7&animation=twinkling" width="100%" />
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Arial&weight=700&size=32&duration=1&pause=999999&color=CDD6F4&center=true&vCenter=true&repeat=false&width=600&height=50&lines=Hi+%F0%9F%91%8B%2C+I'm+NAMELESS" />
-</p>
-
 ---
+
+<h1 align="center">
+  Hi
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35" alt="Waving hand" />
+  , I'm NAMELESS
+  <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" alt="Decorative image" />
+</h1>
+
+
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="40" alt="Mechanical gears" />
@@ -26,19 +31,20 @@
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="35" alt="Robot" />
   <img src="https://img.shields.io/badge/ABOUT_ME-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=650&height=80&lines=Interested+in+Cybersecurity+and+Ethical+Hacking;Building+My+Technical+Knowledge;Exploring+How+Systems+Work+and+How+to+Secure+Them" />
 </p>
+
 
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="35" alt="Rocket" />
   <img src="https://img.shields.io/badge/MY_GOAL-1e1e2e?style=flat-square&labelColor=1e1e2e&color=f5c2e7" />
 </p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=650&height=80&lines=Becoming+a+Skilled+Ethical+Hacker;Learning+Through+Hands-on+Practice;Solving+Real-World+Problems" />
 </p>
+
+---
 
 <p align="left">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" alt="Waving cat" />
@@ -81,7 +87,6 @@
   <img src="https://img.shields.io/badge/PostgreSQL-1e1e2e?style=for-the-badge&logo=postgresql&logoColor=89b4fa" />
 </p>
 
----
 
 <p align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="35" alt="Laptop" />
