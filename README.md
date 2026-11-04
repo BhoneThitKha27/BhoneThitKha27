@@ -85,7 +85,7 @@
 
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-1e1e2e?style=for-the-badge&logo=html5&logoColor=fab387" />
-  <img src="https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/CSS3-1e1e2e?style=for-the-badge&logo=css3&logoColor=89b4fa&labelColor=1e1e2e"alt="CSS3"/>
   <img src="https://img.shields.io/badge/JavaScript-1e1e2e?style=for-the-badge&logo=javascript&logoColor=f9e2af" />
   <img src="https://img.shields.io/badge/Python-1e1e2e?style=for-the-badge&logo=python&logoColor=89b4fa" />
   <img src="https://img.shields.io/badge/MySQL-1e1e2e?style=for-the-badge&logo=mysql&logoColor=89dceb" />
