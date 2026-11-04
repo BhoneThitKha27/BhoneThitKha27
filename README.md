@@ -78,6 +78,11 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BhoneThitKha27&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&card_width=500" />
 </p>
 
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="35" alt="Light bulb" />
+  <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
+</p>
+
 ---
 
 <p align="center">
