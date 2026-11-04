@@ -119,6 +119,11 @@
 ---
 
 <!-- LEETCODE STATS -->
+<p align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f5a5/512.gif" width="35" alt="Desktop computer" />
+  <img src="https://img.shields.io/badge/LEETCODE_STATS-cba6f7?style=flat-square&labelColor=1e1e2e" />
+</p>
+
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/bhonethitkha27?font=Fira_Code&ext=heatmap&colors=1e1e2e,313244,cdd6f4,a6adc8,cba6f7,89b4fa,f5c2e7,94e2d5" />
 </p>
