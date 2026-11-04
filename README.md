@@ -104,8 +104,9 @@
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Windows-1e1e2e?style=for-the-badge&logo=microsoft&logoColor=89b4fa" />
-  <img src="https://img.shields.io/badge/Linux-1e1e2e?style=for-the-badge&logo=linux&logoColor=f9e2af" />
+  <img src="https://img.shields.io/badge/Windows-1e1e2e?style=for-the-badge&logo=windows&logoColor=89b4fa" />
+  <img src="https://img.shields.io/badge/Debian-1e1e2e?style=for-the-badge&logo=debian&logoColor=f38ba8" />
+  <img src="https://img.shields.io/badge/Ubuntu-1e1e2e?style=for-the-badge&logo=ubuntu&logoColor=fab387" />
 </p>
 
 ---
