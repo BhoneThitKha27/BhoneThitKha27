@@ -152,32 +152,36 @@
 <!-- 🎓 CERTIFICATIONS -->
 
 <p align="center">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="28" alt="Graduation cap" />
-  <strong>Certifications</strong>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" alt="Graduation cap" />
+  <strong><font color="#cba6f7">Certifications</font></strong>
 </p>
 
 <details>
 <summary>
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e1/512.gif" width="18" alt="Shield" />
-  <strong>Cisco Networking Academy</strong> · 1
+  <strong>Cisco Networking Academy</strong>
+  <sub>· 1 certificate</sub>
 </summary>
 
 <br />
 
 <p align="center">
   <a href="https://drive.google.com/file/d/1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re/view">
-    <img src="https://drive.google.com/thumbnail?id=1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re&sz=w600" width="55%" alt="Introduction to Cybersecurity" />
+    <img src="https://drive.google.com/thumbnail?id=1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re&sz=w600" width="55%" alt="Introduction to Cybersecurity certificate" />
   </a>
   <br />
-  <sub>Introduction to Cybersecurity · October 2026</sub>
+  <strong>Introduction to Cybersecurity</strong>
+  <br />
+  <sub><font color="#a6adc8">25 October 2026</font></sub>
 </p>
 
 </details>
 
 <details>
 <summary>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="18" alt="Laptop" />
-  <strong>freeCodeCamp</strong> · 3
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="18" alt="Books" />
+  <strong>freeCodeCamp</strong>
+  <sub>· 3 certificates</sub>
 </summary>
 
 <br />
@@ -186,32 +190,32 @@
   <tr>
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG/view">
-        <img src="https://drive.google.com/thumbnail?id=1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG&sz=w600" width="100%" alt="Responsive Web Design" />
+        <img src="https://drive.google.com/thumbnail?id=1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG&sz=w600" width="100%" alt="Responsive Web Design certificate" />
       </a>
       <br />
-      <sub><strong>Responsive Web Design</strong></sub>
+      <strong>Responsive Web Design</strong>
       <br />
-      <sub>Nov 2026 · <a href="https://freecodecamp.org/certification/bhonethitkha/responsive-web-design-v9">Verify ↗</a></sub>
+      <sub><font color="#a6adc8">2 November 2026</font></sub>
     </td>
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0/view">
-        <img src="https://drive.google.com/thumbnail?id=1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0&sz=w600" width="100%" alt="A2 English for Developers" />
+        <img src="https://drive.google.com/thumbnail?id=1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0&sz=w600" width="100%" alt="A2 English for Developers certificate" />
       </a>
       <br />
-      <sub><strong>A2 English for Developers</strong></sub>
+      <strong>A2 English for Developers</strong>
       <br />
-      <sub>Nov 2026 · <a href="https://freecodecamp.org/certification/bhonethitkha/a2-english-for-developers">Verify ↗</a></sub>
+      <sub><font color="#a6adc8">3 November 2026</font></sub>
     </td>
   </tr>
   <tr>
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD/view">
-        <img src="https://drive.google.com/thumbnail?id=1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD&sz=w600" width="100%" alt="B1 English for Developers" />
+        <img src="https://drive.google.com/thumbnail?id=1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD&sz=w600" width="100%" alt="B1 English for Developers certificate" />
       </a>
       <br />
-      <sub><strong>B1 English for Developers</strong></sub>
+      <strong>B1 English for Developers</strong>
       <br />
-      <sub>Nov 2026 · <a href="https://freecodecamp.org/certification/bhonethitkha/b1-english-for-developers">Verify ↗</a></sub>
+      <sub><font color="#a6adc8">3 November 2026</font></sub>
     </td>
   </tr>
 </table>
