@@ -149,6 +149,21 @@
 
 ---
 
+
+## 🎓 Certifications
+
+### 🔐 Cybersecurity
+- [Introduction to Cybersecurity](https://drive.google.com/file/d/1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re/view?usp=drivesdk) — Cisco Networking Academy
+
+### 💻 Development
+- [Responsive Web Design](YOUR_RESPONSIVE_WEB_DESIGN_DRIVE_LINK) — freeCodeCamp
+
+### 🌐 English
+- [A2 English for Developers](YOUR_A2_DRIVE_LINK) — freeCodeCamp
+- [B1 English for Developers](YOUR_B1_DRIVE_LINK) — freeCodeCamp
+
+---
+
 <!-- FOOTER -->
 <p align="center">
   <img src="https://img.shields.io/badge/always_learning-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
