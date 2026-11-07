@@ -20,6 +20,13 @@
 <img src="https://img.shields.io/badge/Polytechnic_University_of_Mawlamyine-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Polytechnic University of Mawlamyine" />
 </p>
 
+
+<p align="center">
+  <a href="https://drive.google.com/drive/folders/1aa5pTJ6HM9UgL0peWvQzlWMmsx-EdfeK" target="_blank">
+    <img src="https://img.shields.io/badge/Click_Here_for_My_Certifications-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=google-drive&logoColor=cdd6f4" alt="My Certifications" />
+  </a>
+</p>
+
 ---
 
 <!-- ABOUT ME -->
