@@ -149,18 +149,22 @@
 
 ---
 
-<!-- 🎓 CERTIFICATIONS -->
+
+
+<!-- CERTIFICATIONS -->
 
 <p align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" alt="Graduation cap" />
-  <strong><font color="#cba6f7">Certifications</font></strong>
+  <img src="https://img.shields.io/badge/CERTIFICATIONS-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Certifications" />
 </p>
+
+
 
 <details>
 <summary>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f512/512.gif" width="18" alt="Lock" />
-  <strong>Cisco Networking Academy</strong>
-  <sub>· 1 certificate</sub>
+  <img src="./assets/cisco-networking-academy.jpg" width="24" alt="Cisco logo" />
+  <img src="https://img.shields.io/badge/Cisco_Networking_Academy-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Cisco Networking Academy" />
+  <img src="https://img.shields.io/badge/01 certificate -89b4fa?style=flat-square&labelColor=313244" alt="1 certificate" />
 </summary>
 
 <br />
@@ -172,16 +176,18 @@
   <br />
   <strong>Introduction to Cybersecurity</strong>
   <br />
-  <sub><font color="#a6adc8">25 October 2026</font></sub>
+  <sub>25 October 2026</sub>
 </p>
 
 </details>
 
+
+
 <details>
 <summary>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ea/512.gif" width="18" alt="Test tube" />
-  <strong>freeCodeCamp</strong>
-  <sub>· 3 certificates</sub>
+  <img src="./assets/freecodecamp.jpg" width="24" alt="freeCodeCamp logo" />
+  <img src="https://img.shields.io/badge/freeCodeCamp-cba6f7?style=flat-square&labelColor=1e1e2e" alt="freeCodeCamp" />
+  <img src="https://img.shields.io/badge/03 certificates -cba6f7?style=flat-square&labelColor=313244" alt="3 certificates" />
 </summary>
 
 <br />
@@ -195,7 +201,7 @@
       <br />
       <strong>Responsive Web Design</strong>
       <br />
-      <sub><font color="#a6adc8">2 November 2026</font></sub>
+      <sub>2 November 2026</sub>
     </td>
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0/view">
@@ -204,7 +210,7 @@
       <br />
       <strong>A2 English for Developers</strong>
       <br />
-      <sub><font color="#a6adc8">3 November 2026</font></sub>
+      <sub>3 November 2026</sub>
     </td>
   </tr>
   <tr>
@@ -215,12 +221,13 @@
       <br />
       <strong>B1 English for Developers</strong>
       <br />
-      <sub><font color="#a6adc8">3 November 2026</font></sub>
+      <sub>3 November 2026</sub>
     </td>
   </tr>
 </table>
 
 </details>
+
 
 ---
 
