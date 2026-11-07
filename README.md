@@ -16,7 +16,7 @@
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="40" alt="Mechanical gears" />
-  <img src="https://img.shields.io/badge/Mechanical_Engineering-89b4fa?style=flat-square&labelColor=1e1e2e" alt="Mechanical Engineering" />
+  <img src="https://img.shields.io/badge/5th-year Mechanical_Engineering-89b4fa?style=flat-square&labelColor=1e1e2e" alt="Mechanical Engineering" />
 <img src="https://img.shields.io/badge/Polytechnic_University_of_Mawlamyine-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Polytechnic University of Mawlamyine" />
 </p>
 
@@ -162,7 +162,7 @@
 
 <details>
 <summary>
-  <img src="./assets/cisco-networking-academy.jpg" width="24" alt="Cisco logo" />
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="24" alt="Cisco" />
   <img src="https://img.shields.io/badge/Cisco_Networking_Academy-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Cisco Networking Academy" />
   <img src="https://img.shields.io/badge/01 certificate -89b4fa?style=flat-square&labelColor=313244" alt="1 certificate" />
 </summary>
@@ -185,7 +185,7 @@
 
 <details>
 <summary>
-  <img src="./assets/freecodecamp.jpg" width="24" alt="freeCodeCamp logo" />
+  <img src="https://cdn.simpleicons.org/freecodecamp/FFFFFF" height="24" alt="freeCodeCamp" />
   <img src="https://img.shields.io/badge/freeCodeCamp-cba6f7?style=flat-square&labelColor=1e1e2e" alt="freeCodeCamp" />
   <img src="https://img.shields.io/badge/03 certificates -cba6f7?style=flat-square&labelColor=313244" alt="3 certificates" />
 </summary>
