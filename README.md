@@ -164,6 +164,7 @@
 <!-- CISCO NETWORKING ACADEMY CERTIFICATION -->
 <details>
 <summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="24" alt="Cisco" />
   <img src="https://img.shields.io/badge/Cisco_Networking_Academy-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Cisco Networking Academy" />
   <img src="https://img.shields.io/badge/01 certificate -89b4fa?style=flat-square&labelColor=313244" alt="1 certificate" />
@@ -191,6 +192,7 @@
 <!-- FREECODECAMP CERTIFICATIONS -->
 <details>
 <summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/freecodecamp/FFFFFF" height="24" alt="freeCodeCamp" />
   <img src="https://img.shields.io/badge/freeCodeCamp-cba6f7?style=flat-square&labelColor=1e1e2e" alt="freeCodeCamp" />
   <img src="https://img.shields.io/badge/03 certificates -89b4fa?style=flat-square&labelColor=313244" alt="3 certificates" />
