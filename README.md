@@ -16,6 +16,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" alt="Decorative image" />
 </h1>
 
+
 <!-- EDUCATION -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="40" alt="Mechanical gears" />
@@ -33,10 +34,12 @@
   <img src="https://img.shields.io/badge/ABOUT_ME-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
+
 <!-- PERSONAL INTERESTS -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=650&height=80&lines=Interested+in+Cybersecurity+and+Ethical+Hacking;Building+My+Technical+Knowledge;Exploring+How+Systems+Work+and+How+to+Secure+Them" />
 </p>
+
 
 <!-- PERSONAL GOAL -->
 <p align="left">
@@ -62,6 +65,8 @@
 
 [![PROGRAMMING FUNDAMENTALS](https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=code&logoColor=cdd6f4)](https://www.freecodecamp.org/)
 
+
+
 <!-- AREAS OF INTEREST -->
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="35" alt="Brain" />
@@ -70,6 +75,8 @@
 
 [![ethical hacking](https://img.shields.io/badge/ethical_hacking-f5c2e7?style=for-the-badge&labelColor=1e1e2e)](https://www.hackthebox.com/)
 [![penetration testing](https://img.shields.io/badge/penetration_testing-f38ba8?style=for-the-badge&labelColor=1e1e2e)](https://www.kali.org/)
+
+
 
 <!-- LEARNING PLATFORMS -->
 <p align="left">
@@ -95,6 +102,8 @@
   <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
+
+
 <!-- PROGRAMMING LANGUAGES & TECHNOLOGIES -->
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-313244?style=for-the-badge&logo=html5&logoColor=fab387" />
@@ -105,16 +114,22 @@
   <img src="https://img.shields.io/badge/PostgreSQL-313244?style=for-the-badge&logo=postgresql&logoColor=89b4fa" />
 </p>
 
+
+
 <!-- MOST USED LANGUAGES -->
 <p align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="35" alt="Laptop" />
   <img src="https://img.shields.io/badge/MOST_USED_LANGUAGES-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
+
+
 <!-- GITHUB LANGUAGE STATISTICS -->
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BhoneThitKha27&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&card_width=500" />
 </p>
+
+
 
 <!-- OPERATING SYSTEMS -->
 <p align="left">
@@ -122,45 +137,13 @@
   <img src="https://img.shields.io/badge/OPERATING_SYSTEMS-94e2d5?style=flat-square&labelColor=1e1e2e" />
 </p>
 
+
+
 <!-- OPERATING SYSTEMS USED -->
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-313244?style=for-the-badge&logo=windows&logoColor=89b4fa" />
   <img src="https://img.shields.io/badge/Debian-313244?style=for-the-badge&logo=debian&logoColor=f38ba8" />
   <img src="https://img.shields.io/badge/Ubuntu-313244?style=for-the-badge&logo=ubuntu&logoColor=fab387" />
-</p>
-
----
-
-<!-- ========================================= -->
-<!-- CODING PROGRESS & STATISTICS -->
-<!-- ========================================= -->
-
-<!-- LEETCODE STATS -->
-<p  ="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="35" alt="Target" />
-  <img src="https://img.shields.io/badge/LEETCODE_STATS-cba6f7?style=flat-square&labelColor=1e1e2e" />
-</p>
-
-<!-- LEETCODE ACTIVITY & HEATMAP -->
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/bhonethitkha27?font=Fira_Code&ext=heatmap&colors=1e1e2e,313244,cdd6f4,a6adc8,cba6f7,89b4fa,f5c2e7,94e2d5" />
-</p>
-
----
-
-<!-- HACKERRANK STATS -->
-<p align="left">
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="35" alt="Trophy" />
-  <img src="https://img.shields.io/badge/HACKERRANK_STATS-cba6f7?style=flat-square&labelColor=1e1e2e" />
-</p>
-
-<!-- HACKERRANK PROFILE STATISTICS -->
-<p align="center">
-  <img
-    src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=bhonethitkha_of1"
-    width="380"
-    alt="HackerRank Stats"
-  />
 </p>
 
 ---
@@ -175,6 +158,9 @@
   <img src="https://img.shields.io/badge/CERTIFICATIONS-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Certifications" />
 </p>
 
+
+
+
 <!-- CISCO NETWORKING ACADEMY CERTIFICATION -->
 <details>
 <summary>
@@ -184,6 +170,8 @@
 </summary>
 
 <br />
+
+
 
 <!-- INTRODUCTION TO CYBERSECURITY CERTIFICATE -->
 <p align="center">
@@ -198,6 +186,8 @@
 
 </details>
 
+
+
 <!-- FREECODECAMP CERTIFICATIONS -->
 <details>
 <summary>
@@ -207,6 +197,8 @@
 </summary>
 
 <br />
+
+
 
 <!-- FREECODECAMP CERTIFICATE GALLERY -->
 <table>
@@ -251,6 +243,42 @@
 ---
 
 <!-- ========================================= -->
+<!-- CODING PROGRESS & STATISTICS -->
+<!-- ========================================= -->
+
+<!-- LEETCODE STATS -->
+<p  ="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="35" alt="Target" />
+  <img src="https://img.shields.io/badge/LEETCODE_STATS-cba6f7?style=flat-square&labelColor=1e1e2e" />
+</p>
+
+
+<!-- LEETCODE ACTIVITY & HEATMAP -->
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/bhonethitkha27?font=Fira_Code&ext=heatmap&colors=1e1e2e,313244,cdd6f4,a6adc8,cba6f7,89b4fa,f5c2e7,94e2d5" />
+</p>
+
+---
+
+<!-- HACKERRANK STATS -->
+<p align="left">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="35" alt="Trophy" />
+  <img src="https://img.shields.io/badge/HACKERRANK_STATS-cba6f7?style=flat-square&labelColor=1e1e2e" />
+</p>
+
+
+<!-- HACKERRANK PROFILE STATISTICS -->
+<p align="center">
+  <img
+    src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=bhonethitkha_of1"
+    width="380"
+    alt="HackerRank Stats"
+  />
+</p>
+
+---
+
+<!-- ========================================= -->
 <!-- FOOTER -->
 <!-- ========================================= -->
 
@@ -260,10 +288,12 @@
   <img src="https://img.shields.io/badge/always_exploring-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
 </p>
 
+
 <!-- FINAL TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Learning+Cybersecurity;Exploring+Ethical+Hacking;Building+My+Future" />
 </p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Learning+Cybersecurity;Exploring+Ethical+Hacking;Building+My+Future" />
