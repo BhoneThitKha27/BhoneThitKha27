@@ -221,7 +221,6 @@
       <br />
       <sub>2 November 2026</sub>
     </td>
-
     <!-- A2 ENGLISH FOR DEVELOPERS -->
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0/view">
