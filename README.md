@@ -1,11 +1,14 @@
-<!-- CATPPUCCIN MOCHA HEADER -->
+<!-- ========================================= -->
+<!-- HEADER -->
+<!-- ========================================= -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:11111b,15:1e1e2e,35:313244,55:45475a,75:585b70,100:cba6f7&text=NAMELESS&fontColor=cdd6f4&fontSize=55&fontAlignY=38&desc=Still%20becoming%20the%20person%20I%20promised%20myself%20I%27d%20be.&descAlignY=60&descSize=14&descColor=f5c2e7&animation=twinkling" width="100%" />
 </p>
 
 
-
+<!-- ========================================= -->
 <!-- INTRODUCTION -->
+<!-- ========================================= -->
 <h1 align="center">
   Hi
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" width="35" alt="Waving hand" />
@@ -13,26 +16,29 @@
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" alt="Decorative image" />
 </h1>
 
-
+<!-- EDUCATION -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="40" alt="Mechanical gears" />
-  <img src="https://img.shields.io/badge/5th-year Mechanical_Engineering-89b4fa?style=flat-square&labelColor=1e1e2e" alt="Mechanical Engineering" />
-<img src="https://img.shields.io/badge/Polytechnic_University_of_Mawlamyine-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Polytechnic University of Mawlamyine" />
+  <img src="https://img.shields.io/badge/5th Mechanical_Engineering-89b4fa?style=flat-square&labelColor=1e1e2e" alt="Mechanical Engineering" />
+  <img src="https://img.shields.io/badge/Polytechnic_University_of_Mawlamyine-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Polytechnic University of Mawlamyine" />
 </p>
 
 ---
 
+<!-- ========================================= -->
 <!-- ABOUT ME -->
+<!-- ========================================= -->
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="35" alt="Robot" />
   <img src="https://img.shields.io/badge/ABOUT_ME-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
+<!-- PERSONAL INTERESTS -->
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=650&height=80&lines=Interested+in+Cybersecurity+and+Ethical+Hacking;Building+My+Technical+Knowledge;Exploring+How+Systems+Work+and+How+to+Secure+Them" />
 </p>
 
-<!-- MY GOAL -->
+<!-- PERSONAL GOAL -->
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="35" alt="Rocket" />
   <img src="https://img.shields.io/badge/MY_GOAL-f5c2e7?style=flat-square&labelColor=1e1e2e" />
@@ -43,6 +49,10 @@
 </p>
 
 ---
+
+<!-- ========================================= -->
+<!-- LEARNING JOURNEY -->
+<!-- ========================================= -->
 
 <!-- CURRENTLY LEARNING -->
 <p align="left">
@@ -75,12 +85,17 @@
 
 ---
 
+<!-- ========================================= -->
+<!-- TECHNICAL SKILLS & ENVIRONMENT -->
+<!-- ========================================= -->
+
 <!-- PROGRAMMING FUNDAMENTALS -->
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="35" alt="Light bulb" />
   <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
+<!-- PROGRAMMING LANGUAGES & TECHNOLOGIES -->
 <p align="left">
   <img src="https://img.shields.io/badge/HTML5-313244?style=for-the-badge&logo=html5&logoColor=fab387" />
   <img src="https://img.shields.io/badge/CSS3-313244?style=for-the-badge&logo=css3&logoColor=89b4fa" />
@@ -96,6 +111,7 @@
   <img src="https://img.shields.io/badge/MOST_USED_LANGUAGES-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
+<!-- GITHUB LANGUAGE STATISTICS -->
 <p align="center">
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=BhoneThitKha27&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&card_width=500" />
 </p>
@@ -106,6 +122,7 @@
   <img src="https://img.shields.io/badge/OPERATING_SYSTEMS-94e2d5?style=flat-square&labelColor=1e1e2e" />
 </p>
 
+<!-- OPERATING SYSTEMS USED -->
 <p align="left">
   <img src="https://img.shields.io/badge/Windows-313244?style=for-the-badge&logo=windows&logoColor=89b4fa" />
   <img src="https://img.shields.io/badge/Debian-313244?style=for-the-badge&logo=debian&logoColor=f38ba8" />
@@ -114,12 +131,17 @@
 
 ---
 
+<!-- ========================================= -->
+<!-- CODING PROGRESS & STATISTICS -->
+<!-- ========================================= -->
+
 <!-- LEETCODE STATS -->
 <p  ="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="35" alt="Target" />
   <img src="https://img.shields.io/badge/LEETCODE_STATS-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
+<!-- LEETCODE ACTIVITY & HEATMAP -->
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/bhonethitkha27?font=Fira_Code&ext=heatmap&colors=1e1e2e,313244,cdd6f4,a6adc8,cba6f7,89b4fa,f5c2e7,94e2d5" />
 </p>
@@ -132,6 +154,7 @@
   <img src="https://img.shields.io/badge/HACKERRANK_STATS-cba6f7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
+<!-- HACKERRANK PROFILE STATISTICS -->
 <p align="center">
   <img
     src="https://hackerrank-stats-card.netlify.app/api/hackerrank-card?username=bhonethitkha_of1"
@@ -142,17 +165,17 @@
 
 ---
 
-
-
+<!-- ========================================= -->
 <!-- CERTIFICATIONS -->
+<!-- ========================================= -->
 
+<!-- CERTIFICATIONS SECTION HEADER -->
 <p align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" alt="Graduation cap" />
   <img src="https://img.shields.io/badge/CERTIFICATIONS-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Certifications" />
 </p>
 
-
-
+<!-- CISCO NETWORKING ACADEMY CERTIFICATION -->
 <details>
 <summary>
   <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="24" alt="Cisco" />
@@ -162,6 +185,7 @@
 
 <br />
 
+<!-- INTRODUCTION TO CYBERSECURITY CERTIFICATE -->
 <p align="center">
   <a href="https://drive.google.com/file/d/1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re/view">
     <img src="https://drive.google.com/thumbnail?id=1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re&sz=w600" width="55%" alt="Introduction to Cybersecurity certificate" />
@@ -174,8 +198,7 @@
 
 </details>
 
-
-
+<!-- FREECODECAMP CERTIFICATIONS -->
 <details>
 <summary>
   <img src="https://cdn.simpleicons.org/freecodecamp/FFFFFF" height="24" alt="freeCodeCamp" />
@@ -185,8 +208,10 @@
 
 <br />
 
+<!-- FREECODECAMP CERTIFICATE GALLERY -->
 <table>
   <tr>
+    <!-- RESPONSIVE WEB DESIGN -->
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG/view">
         <img src="https://drive.google.com/thumbnail?id=1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG&sz=w600" width="100%" alt="Responsive Web Design certificate" />
@@ -196,6 +221,8 @@
       <br />
       <sub>2 November 2026</sub>
     </td>
+
+    <!-- A2 ENGLISH FOR DEVELOPERS -->
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0/view">
         <img src="https://drive.google.com/thumbnail?id=1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0&sz=w600" width="100%" alt="A2 English for Developers certificate" />
@@ -207,6 +234,7 @@
     </td>
   </tr>
   <tr>
+    <!-- B1 ENGLISH FOR DEVELOPERS -->
     <td align="center" width="50%">
       <a href="https://drive.google.com/file/d/1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD/view">
         <img src="https://drive.google.com/thumbnail?id=1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD&sz=w600" width="100%" alt="B1 English for Developers certificate" />
@@ -221,13 +249,21 @@
 
 </details>
 
-
 ---
 
+<!-- ========================================= -->
 <!-- FOOTER -->
+<!-- ========================================= -->
+
+<!-- PERSONAL TAGLINES -->
 <p align="center">
   <img src="https://img.shields.io/badge/always_learning-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
   <img src="https://img.shields.io/badge/always_exploring-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
+</p>
+
+<!-- FINAL TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Learning+Cybersecurity;Exploring+Ethical+Hacking;Building+My+Future" />
 </p>
 
 <p align="center">
