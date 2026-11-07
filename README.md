@@ -149,18 +149,74 @@
 
 ---
 
+<!-- 🎓 CERTIFICATIONS -->
 
-## 🎓 Certifications
+<p align="center">
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="28" alt="Graduation cap" />
+  <strong>Certifications</strong>
+</p>
 
-### 🔐 Cybersecurity
-- [Introduction to Cybersecurity](https://drive.google.com/file/d/1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re/view?usp=drivesdk) — Cisco Networking Academy
+<details>
+<summary>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e1/512.gif" width="18" alt="Shield" />
+  <strong>Cisco Networking Academy</strong> · 1
+</summary>
 
-### 💻 Development
-- [Responsive Web Design](YOUR_RESPONSIVE_WEB_DESIGN_DRIVE_LINK) — freeCodeCamp
+<br />
 
-### 🌐 English
-- [A2 English for Developers](YOUR_A2_DRIVE_LINK) — freeCodeCamp
-- [B1 English for Developers](YOUR_B1_DRIVE_LINK) — freeCodeCamp
+<p align="center">
+  <a href="https://drive.google.com/file/d/1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re/view">
+    <img src="https://drive.google.com/thumbnail?id=1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re&sz=w600" width="55%" alt="Introduction to Cybersecurity" />
+  </a>
+  <br />
+  <sub>Introduction to Cybersecurity · October 2026</sub>
+</p>
+
+</details>
+
+<details>
+<summary>
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="18" alt="Laptop" />
+  <strong>freeCodeCamp</strong> · 3
+</summary>
+
+<br />
+
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG/view">
+        <img src="https://drive.google.com/thumbnail?id=1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG&sz=w600" width="100%" alt="Responsive Web Design" />
+      </a>
+      <br />
+      <sub><strong>Responsive Web Design</strong></sub>
+      <br />
+      <sub>Nov 2026 · <a href="https://freecodecamp.org/certification/bhonethitkha/responsive-web-design-v9">Verify ↗</a></sub>
+    </td>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0/view">
+        <img src="https://drive.google.com/thumbnail?id=1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0&sz=w600" width="100%" alt="A2 English for Developers" />
+      </a>
+      <br />
+      <sub><strong>A2 English for Developers</strong></sub>
+      <br />
+      <sub>Nov 2026 · <a href="https://freecodecamp.org/certification/bhonethitkha/a2-english-for-developers">Verify ↗</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <a href="https://drive.google.com/file/d/1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD/view">
+        <img src="https://drive.google.com/thumbnail?id=1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD&sz=w600" width="100%" alt="B1 English for Developers" />
+      </a>
+      <br />
+      <sub><strong>B1 English for Developers</strong></sub>
+      <br />
+      <sub>Nov 2026 · <a href="https://freecodecamp.org/certification/bhonethitkha/b1-english-for-developers">Verify ↗</a></sub>
+    </td>
+  </tr>
+</table>
+
+</details>
 
 ---
 
