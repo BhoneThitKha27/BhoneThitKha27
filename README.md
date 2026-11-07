@@ -158,7 +158,7 @@
 
 <details>
 <summary>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f6e1/512.gif" width="18" alt="Shield" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f512/512.gif" width="18" alt="Lock" />
   <strong>Cisco Networking Academy</strong>
   <sub>· 1 certificate</sub>
 </summary>
@@ -179,7 +179,7 @@
 
 <details>
 <summary>
-  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="18" alt="Books" />
+  <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9ea/512.gif" width="18" alt="Test tube" />
   <strong>freeCodeCamp</strong>
   <sub>· 3 certificates</sub>
 </summary>
