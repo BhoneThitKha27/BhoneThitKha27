@@ -4,7 +4,7 @@
 <!-- ========================================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:11111b,15:1e1e2e,35:313244,55:45475a,75:585b70,100:cba6f7&text=NAMELESS&fontColor=cdd6f4&fontSize=55&fontAlignY=38&desc=Still%20becoming%20the%20person%20I%20promised%20myself%20I%27d%20be.&descAlignY=60&descSize=14&descColor=f5c2e7&animation=twinkling" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:11111b,15:1e1e2e,35:313244,55:45475a,75:585b70,100:cba6f7&text=NAMELESS&fontColor=ffffff&fontSize=55&fontAlignY=38&desc=Still%20becoming%20the%20person%20I%20promised%20myself%20I%27d%20be.&descAlignY=60&descSize=14&descColor=ffffff&animation=twinkling" width="100%" />
 </p>
 
 
@@ -31,10 +31,10 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="32" alt="Mechanical Engineering" />
   <br>
-  <img src="https://img.shields.io/badge/Mechanical_Engineering-89b4fa?style=flat-square&labelColor=1e1e2e" alt="Field of Study" />
-  <img src="https://img.shields.io/badge/5th_Year_Student-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Current Academic Year" />
+  <img src="https://img.shields.io/badge/Mechanical_Engineering-345b78?style=flat-square&labelColor=1e1e2e" alt="Field of Study" />
+  <img src="https://img.shields.io/badge/5th_Year_Student-6e4a8e?style=flat-square&labelColor=1e1e2e" alt="Current Academic Year" />
   <br>
-  <img src="https://img.shields.io/badge/Polytechnic_University_of_Mawlamyine-cdd6f4?style=flat-square&labelColor=1e1e2e" alt="University" />
+  <img src="https://img.shields.io/badge/Polytechnic_University_of_Mawlamyine-45475a?style=flat-square&labelColor=1e1e2e" alt="University" />
   <br>
   <sub>Undergraduate Studies · In Progress</sub>
 </p>
@@ -52,7 +52,7 @@
 
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f916/512.gif" width="35" alt="Robot" />
-  <img src="https://img.shields.io/badge/ABOUT_ME-cba6f7?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/ABOUT_ME-6e4a8e?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 
@@ -61,9 +61,9 @@
 <!-- PERSONAL BACKGROUND AND INTERESTS -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Fifth--Year_Mechanical_Engineering_Student-89b4fa?style=flat-square&labelColor=1e1e2e" alt="Fifth-Year Mechanical Engineering Student" />
+  <img src="https://img.shields.io/badge/Fifth--Year_Mechanical_Engineering_Student-345b78?style=flat-square&labelColor=1e1e2e" alt="Fifth-Year Mechanical Engineering Student" />
   <br>
-  <img src="https://img.shields.io/badge/Interested_in_Technology_and_Ethical_Hacking-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Interested in Technology and Ethical Hacking" />
+  <img src="https://img.shields.io/badge/Interested_in_Technology_and_Ethical_Hacking-6e4a8e?style=flat-square&labelColor=1e1e2e" alt="Interested in Technology and Ethical Hacking" />
   <br><br>
   <sub>
     Exploring Ethical Hacking as a personal interest alongside my Mechanical Engineering studies.
@@ -79,7 +79,7 @@
 
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f680/512.gif" width="35" alt="Rocket" />
-  <img src="https://img.shields.io/badge/MY_GOAL-f5c2e7?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/MY_GOAL-804d6b?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 
@@ -88,7 +88,7 @@
 <!-- PERSONAL ASPIRATION -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Become_a_Skilled_Ethical_Hacker-f5c2e7?style=flat-square&labelColor=1e1e2e" alt="Become a Skilled Ethical Hacker" />
+  <img src="https://img.shields.io/badge/Become_a_Skilled_Ethical_Hacker-804d6b?style=flat-square&labelColor=1e1e2e" alt="Become a Skilled Ethical Hacker" />
   <br><br>
   <sub>
     Learning at my own pace, practicing when time allows, and always staying curious.
@@ -108,7 +108,7 @@
 
 <p align="left">
   <img src="https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif" width="35" alt="Waving cat" />
-  <img src="https://img.shields.io/badge/CURRENTLY_LEARNING-94e2d5?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/CURRENTLY_LEARNING-286b64?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 
@@ -116,7 +116,7 @@
 
 <!-- PROGRAMMING FUNDAMENTALS -->
 
-[![PROGRAMMING FUNDAMENTALS](https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-cba6f7?style=for-the-badge&labelColor=1e1e2e&logo=code&logoColor=cdd6f4)](https://www.freecodecamp.org/)
+[![PROGRAMMING FUNDAMENTALS](https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-6e4a8e?style=for-the-badge&labelColor=1e1e2e&logo=code&logoColor=cdd6f4)](https://www.freecodecamp.org/)
 
 
 
@@ -125,7 +125,7 @@
 
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f9e0/512.gif" width="35" alt="Brain" />
-  <img src="https://img.shields.io/badge/AREAS_OF_INTEREST-f38ba8?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/AREAS_OF_INTEREST-803f52?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 
@@ -133,8 +133,8 @@
 
 <!-- ETHICAL HACKING AND PENETRATION TESTING -->
 
-[![ethical hacking](https://img.shields.io/badge/ethical_hacking-f5c2e7?style=for-the-badge&labelColor=1e1e2e)](https://www.hackthebox.com/)
-[![penetration testing](https://img.shields.io/badge/penetration_testing-f38ba8?style=for-the-badge&labelColor=1e1e2e)](https://www.kali.org/)
+[![ethical hacking](https://img.shields.io/badge/ethical_hacking-804d6b?style=for-the-badge&labelColor=1e1e2e)](https://www.hackthebox.com/)
+[![penetration testing](https://img.shields.io/badge/penetration_testing-803f52?style=for-the-badge&labelColor=1e1e2e)](https://www.kali.org/)
 
 
 
@@ -143,7 +143,7 @@
 
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/512.gif" width="35" alt="Books" />
-  <img src="https://img.shields.io/badge/LEARNING_PLATFORMS-89b4fa?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/LEARNING_PLATFORMS-345b78?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 
@@ -151,11 +151,11 @@
 
 <!-- LEARNING PLATFORM LINKS -->
 
-[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-cba6f7?style=for-the-badge&labelColor=1e1e2e)](https://www.freecodecamp.org/)
-[![CS50](https://img.shields.io/badge/CS50-eba0ac?style=for-the-badge&labelColor=1e1e2e)](https://cs50.harvard.edu/)
-[![cisco netacad](https://img.shields.io/badge/cisco_netacad-89b4fa?style=for-the-badge&labelColor=1e1e2e)](https://www.netacad.com/)
-[![tryhackme](https://img.shields.io/badge/tryhackme-fab387?style=for-the-badge&labelColor=1e1e2e)](https://tryhackme.com/)
-[![hack the box](https://img.shields.io/badge/hack_the_box-a6e3a1?style=for-the-badge&labelColor=1e1e2e)](https://www.hackthebox.com/)
+[![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-6e4a8e?style=for-the-badge&labelColor=1e1e2e)](https://www.freecodecamp.org/)
+[![CS50](https://img.shields.io/badge/CS50-804652?style=for-the-badge&labelColor=1e1e2e)](https://cs50.harvard.edu/)
+[![cisco netacad](https://img.shields.io/badge/cisco_netacad-345b78?style=for-the-badge&labelColor=1e1e2e)](https://www.netacad.com/)
+[![tryhackme](https://img.shields.io/badge/tryhackme-805333?style=for-the-badge&labelColor=1e1e2e)](https://tryhackme.com/)
+[![hack the box](https://img.shields.io/badge/hack_the_box-3f694b?style=for-the-badge&labelColor=1e1e2e)](https://www.hackthebox.com/)
 
 
 
@@ -170,7 +170,7 @@
 
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4a1/512.gif" width="35" alt="Light bulb" />
-  <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-cba6f7?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-6e4a8e?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 
@@ -194,7 +194,7 @@
 
 <p align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4bb/512.gif" width="35" alt="Laptop" />
-  <img src="https://img.shields.io/badge/MOST_USED_LANGUAGES-cba6f7?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/MOST_USED_LANGUAGES-6e4a8e?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 
@@ -213,7 +213,7 @@
 
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f427/512.gif" width="35" alt="Penguin" />
-  <img src="https://img.shields.io/badge/OPERATING_SYSTEMS-94e2d5?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/OPERATING_SYSTEMS-286b64?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 
@@ -240,7 +240,7 @@
 
 <p align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" alt="Graduation cap" />
-  <img src="https://img.shields.io/badge/CERTIFICATES-cba6f7?style=flat-square&labelColor=1e1e2e" alt="CERTIFICATES" />
+  <img src="https://img.shields.io/badge/CERTIFICATES-6e4a8e?style=flat-square&labelColor=1e1e2e" alt="CERTIFICATES" />
 </p>
 
 
@@ -251,7 +251,7 @@
 <!-- ========================================= -->
 
 <p align="left">
-  <img src="https://img.shields.io/badge/INDUSTRY_CERTIFICATES_(VERIFIABLE)-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="Industry Certificates (Verifiable)" />
+  <img src="https://img.shields.io/badge/INDUSTRY_CERTIFICATES_(VERIFIABLE)-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="Industry Certificates (Verifiable)" />
 </p>
 
 
@@ -263,8 +263,8 @@
   
 <summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/dassaultsystemes/89B4FA" height="24" alt="Dassault Systèmes" />
-  <img src="https://img.shields.io/badge/Dassault_Systèmes-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="Dassault Systèmes" />
+  <img src="https://cdn.simpleicons.org/dassaultsystemes" height="24" alt="Dassault Systèmes" />
+  <img src="https://img.shields.io/badge/Dassault_Systèmes-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="Dassault Systèmes" />
 </summary>
 
 <br />
@@ -306,7 +306,7 @@
 <!-- ========================================= -->
 
 <p align="left">
-  <img src="https://img.shields.io/badge/COURSE_COMPLETION_CERTIFICATES_(VERIFIABLE)-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="Course Completion Certificates (Verifiable)" />
+  <img src="https://img.shields.io/badge/COURSE_COMPLETION_CERTIFICATES_(VERIFIABLE)-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="Course Completion Certificates (Verifiable)" />
 </p>
 
 
@@ -318,8 +318,8 @@
   
 <summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cisco/89B4FA" height="24" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Cisco_Networking_Academy-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="Cisco Networking Academy" />
+  <img src="https://cdn.simpleicons.org/cisco" height="24" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Cisco_Networking_Academy-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="Cisco Networking Academy" />
 </summary>
 
 <br />
@@ -347,8 +347,8 @@
   
 <summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/freecodecamp/CBA6F7" height="24" alt="freeCodeCamp" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="freeCodeCamp" />
+  <img src="https://cdn.simpleicons.org/freecodecamp" height="24" alt="freeCodeCamp" />
+  <img src="https://img.shields.io/badge/freeCodeCamp-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="freeCodeCamp" />
 </summary>
 
 <br />
@@ -410,7 +410,7 @@
 
 <p  ="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3af/512.gif" width="35" alt="Target" />
-  <img src="https://img.shields.io/badge/LEETCODE_STATS-cba6f7?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/LEETCODE_STATS-6e4a8e?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 
@@ -419,7 +419,7 @@
 <!-- LEETCODE ACTIVITY & HEATMAP -->
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/bhonethitkha27?font=Fira_Code&ext=heatmap&colors=1e1e2e,313244,cdd6f4,a6adc8,cba6f7,89b4fa,f5c2e7,94e2d5" />
+  <img src="https://leetcard.jacoblin.cool/bhonethitkha27?font=Fira_Code&ext=heatmap&colors=1e1e2e,313244,45475a,6e4a8e,345b78,804d6b,286b64,3f694b" />
 </p>
 
 
@@ -433,7 +433,7 @@
 
 <p align="left">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f3c6/512.gif" width="35" alt="Trophy" />
-  <img src="https://img.shields.io/badge/HACKERRANK_STATS-cba6f7?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/HACKERRANK_STATS-6e4a8e?style=flat-square&labelColor=1e1e2e" />
 </p>
 
 
@@ -461,8 +461,8 @@
 <!-- PERSONAL TAGLINES -->
 
 <p align="center">
-  <img src="https://img.shields.io/badge/always_learning-1e1e2e?style=flat-square&labelColor=1e1e2e&color=cba6f7" />
-  <img src="https://img.shields.io/badge/always_exploring-1e1e2e?style=flat-square&labelColor=1e1e2e&color=94e2d5" />
+  <img src="https://img.shields.io/badge/always_learning-1e1e2e?style=flat-square&labelColor=1e1e2e&color=6e4a8e" />
+  <img src="https://img.shields.io/badge/always_exploring-1e1e2e?style=flat-square&labelColor=1e1e2e&color=286b64" />
 </p>
 
 
@@ -471,5 +471,5 @@
 <!-- FINAL TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=600&height=80&lines=Think+Deeply.;Question+Everything.;Understand+Before+Building." alt="Personal philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Think+Deeply.;Question+Everything.;Understand+Before+Building." alt="Personal philosophy" />
 </p>
