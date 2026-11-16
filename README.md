@@ -188,22 +188,23 @@
 
 
 
+<!-- COURSE COMPLETION CERTIFICATES -->
+<p align="left">
+  <img src="https://img.shields.io/badge/COURSE_COMPLETION_CERTIFICATES_(VERIFIABLE)-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="Course Completion Certificates (Verifiable)" />
+</p>
 
-<!-- CISCO NETWORKING ACADEMY CERTIFICATION -->
+<!-- CISCO NETWORKING ACADEMY -->
 <details>
+  
 <summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="24" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Cisco_Networking_Academy-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Cisco Networking Academy" />
-  <img src="https://img.shields.io/badge/01 certificate -89b4fa?style=flat-square&labelColor=313244" alt="1 certificate" />
+  <img src="https://cdn.simpleicons.org/cisco/89B4FA" height="24" alt="Cisco" />
+  <img src="https://img.shields.io/badge/Cisco_Networking_Academy-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="Cisco Networking Academy" />
+  <img src="https://img.shields.io/badge/01_certificate-89B4FA?style=flat-square&labelColor=313244" alt="1 certificate" />
 </summary>
 
 <br />
 
-
-
-<!-- INTRODUCTION TO CYBERSECURITY CERTIFICATE -->
-<p align="center">
+<p align="left">
   <a href="https://drive.google.com/file/d/1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re/view">
     <img src="https://drive.google.com/thumbnail?id=1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re&sz=w600" width="55%" alt="Introduction to Cybersecurity certificate" />
   </a>
@@ -215,58 +216,50 @@
 
 </details>
 
-
-
-<!-- FREECODECAMP CERTIFICATIONS -->
+<!-- FREECODECAMP -->
 <details>
+  
 <summary>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/freecodecamp/FFFFFF" height="24" alt="freeCodeCamp" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-cba6f7?style=flat-square&labelColor=1e1e2e" alt="freeCodeCamp" />
-  <img src="https://img.shields.io/badge/03 certificates -89b4fa?style=flat-square&labelColor=313244" alt="3 certificates" />
+  <img src="https://cdn.simpleicons.org/freecodecamp/CBA6F7" height="24" alt="freeCodeCamp" />
+  <img src="https://img.shields.io/badge/freeCodeCamp-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="freeCodeCamp" />
+  <img src="https://img.shields.io/badge/03_certificates-89B4FA?style=flat-square&labelColor=313244" alt="3 certificates" />
 </summary>
 
 <br />
 
 
+<p align="left">
+  <a href="https://drive.google.com/file/d/1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG/view">
+    <img src="https://drive.google.com/thumbnail?id=1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG&sz=w600" width="55%" alt="Responsive Web Design certificate" />
+  </a>
+  <br />
+  <strong>Responsive Web Design</strong>
+  <br />
+  <sub>2 November 2026</sub>
+</p>
 
-<!-- FREECODECAMP CERTIFICATE GALLERY -->
-<table>
-  <tr>
-    <!-- RESPONSIVE WEB DESIGN -->
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG/view">
-        <img src="https://drive.google.com/thumbnail?id=1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG&sz=w600" width="100%" alt="Responsive Web Design certificate" />
-      </a>
-      <br />
-      <strong>Responsive Web Design</strong>
-      <br />
-      <sub>2 November 2026</sub>
-    </td>
-    <!-- A2 ENGLISH FOR DEVELOPERS -->
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0/view">
-        <img src="https://drive.google.com/thumbnail?id=1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0&sz=w600" width="100%" alt="A2 English for Developers certificate" />
-      </a>
-      <br />
-      <strong>A2 English for Developers</strong>
-      <br />
-      <sub>3 November 2026</sub>
-    </td>
-  </tr>
-  <tr>
-    <!-- B1 ENGLISH FOR DEVELOPERS -->
-    <td align="center" width="50%">
-      <a href="https://drive.google.com/file/d/1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD/view">
-        <img src="https://drive.google.com/thumbnail?id=1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD&sz=w600" width="100%" alt="B1 English for Developers certificate" />
-      </a>
-      <br />
-      <strong>B1 English for Developers</strong>
-      <br />
-      <sub>3 November 2026</sub>
-    </td>
-  </tr>
-</table>
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD/view">
+    <img src="https://drive.google.com/thumbnail?id=1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD&sz=w600" width="55%" alt="B1 English for Developers certificate" />
+  </a>
+  <br />
+  <strong>B1 English for Developers</strong>
+  <br />
+  <sub>3 November 2026</sub>
+</p>
+
+
+<p align="left">
+  <a href="https://drive.google.com/file/d/1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0/view">
+    <img src="https://drive.google.com/thumbnail?id=1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0&sz=w600" width="55%" alt="A2 English for Developers certificate" />
+  </a>
+  <br />
+  <strong>A2 English for Developers</strong>
+  <br />
+  <sub>3 November 2026</sub>
+</p>
+
 
 </details>
 
