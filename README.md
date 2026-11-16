@@ -188,6 +188,47 @@
 
 
 
+<!-- INDUSTRY CERTIFICATES -->
+<p align="left">
+  <img src="https://img.shields.io/badge/INDUSTRY_CERTIFICATES_(VERIFIABLE)-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="Industry Certificates (Verifiable)" />
+</p>
+
+
+<!-- SOLIDWORKS ADDITIVE MANUFACTURING ASSOCIATE -->
+<details>
+<summary>
+  <img src="https://cdn.simpleicons.org/dassaultsystemes/89B4FA" height="24" alt="Dassault Systèmes" />
+  <img src="https://img.shields.io/badge/Dassault_Systèmes-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="Dassault Systèmes" />
+</summary>
+
+<br />
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1pxgx2LU1355EjPT7L8K7gRwhIY8OYxHi/view">
+    <img src="https://drive.google.com/thumbnail?id=1pxgx2LU1355EjPT7L8K7gRwhIY8OYxHi&sz=w600" width="55%" alt="SOLIDWORKS Sustainability Associate certificate" />
+  </a>
+  <br />
+  <strong>SOLIDWORKS Sustainability Associate</strong>
+  <br />
+  <sub>16 November 2026</sub>
+</p>
+
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/11ga5L4b4wwBavLwt0lhBNRsSsFcQT2YY/view">
+    <img src="https://drive.google.com/thumbnail?id=11ga5L4b4wwBavLwt0lhBNRsSsFcQT2YY&sz=w600" width="55%" alt="SOLIDWORKS Additive Manufacturing Associate certificate" />
+  </a>
+  <br />
+  <strong>SOLIDWORKS Additive Manufacturing Associate</strong>
+  <br />
+  <sub>12 November 2026</sub>
+</p>
+
+</details>
+
+
+
+
 <!-- COURSE COMPLETION CERTIFICATES -->
 <p align="left">
   <img src="https://img.shields.io/badge/COURSE_COMPLETION_CERTIFICATES_(VERIFIABLE)-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="Course Completion Certificates (Verifiable)" />
@@ -205,7 +246,7 @@
 
 <br />
 
-<p align="left">
+<p align="center">
   <a href="https://drive.google.com/file/d/1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re/view">
     <img src="https://drive.google.com/thumbnail?id=1zZXL-tC8YDbspqxr879XJ_Qa2qCpE_Re&sz=w600" width="55%" alt="Introduction to Cybersecurity certificate" />
   </a>
@@ -230,7 +271,7 @@
 <br />
 
 
-<p align="left">
+<p align="center">
   <a href="https://drive.google.com/file/d/1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG/view">
     <img src="https://drive.google.com/thumbnail?id=1mKZZFd17kW2L8VXOFwjfbND68P1rfCzG&sz=w600" width="55%" alt="Responsive Web Design certificate" />
   </a>
@@ -241,7 +282,7 @@
 </p>
 
 
-<p align="left">
+<p align="center">
   <a href="https://drive.google.com/file/d/1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD/view">
     <img src="https://drive.google.com/thumbnail?id=1UFnsyfo5fOWHKlqJhRvrbOeUdClhEOFD&sz=w600" width="55%" alt="B1 English for Developers certificate" />
   </a>
@@ -252,7 +293,7 @@
 </p>
 
 
-<p align="left">
+<p align="center">
   <a href="https://drive.google.com/file/d/1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0/view">
     <img src="https://drive.google.com/thumbnail?id=1h0fpeL5z5fkO1DeMK9tXfVxnWGnntYA0&sz=w600" width="55%" alt="A2 English for Developers certificate" />
   </a>
