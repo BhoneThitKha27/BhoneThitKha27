@@ -6,6 +6,8 @@
 </p>
 
 
+
+
 <!-- ========================================= -->
 <!-- INTRODUCTION -->
 <!-- ========================================= -->
@@ -15,6 +17,7 @@
   , I'm NAMELESS
   <img src="https://user-images.githubusercontent.com/74038190/216120974-24a76b31-7f39-41f1-a38f-b3c1377cc612.png" width="35" alt="Decorative image" />
 </h1>
+
 
 
 
@@ -42,10 +45,20 @@
 </p>
 
 
-<!-- PERSONAL INTERESTS -->
+
+
+<!-- ABOUT ME -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=650&height=80&lines=Interested+in+Cybersecurity+and+Ethical+Hacking;Building+My+Technical+Knowledge;Exploring+How+Systems+Work+and+How+to+Secure+Them" />
+  <img src="https://img.shields.io/badge/Fifth--Year_Mechanical_Engineering_Student-89b4fa?style=flat-square&labelColor=1e1e2e" alt="Fifth-Year Mechanical Engineering Student" />
+  <br>
+  <img src="https://img.shields.io/badge/Interested_in_Technology_and_Ethical_Hacking-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Interested in Technology and Ethical Hacking" />
+  <br><br>
+  <sub>
+    Exploring Ethical Hacking as a personal interest alongside my Mechanical Engineering studies.
+  </sub>
 </p>
+
+
 
 
 <!-- PERSONAL GOAL -->
@@ -54,9 +67,17 @@
   <img src="https://img.shields.io/badge/MY_GOAL-f5c2e7?style=flat-square&labelColor=1e1e2e" />
 </p>
 
+
+
+<!-- PERSONAL ASPIRATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1200&color=F5C2E7&center=true&vCenter=true&width=650&height=80&lines=Becoming+a+Skilled+Ethical+Hacker;Learning+Through+Hands-on+Practice;Solving+Real-World+Problems" />
+  <img src="https://img.shields.io/badge/Become_a_Skilled_Ethical_Hacker-f5c2e7?style=flat-square&labelColor=1e1e2e" alt="Become a Skilled Ethical Hacker" />
+  <br><br>
+  <sub>
+    Learning at my own pace, practicing when time allows, and always staying curious.
+  </sub>
 </p>
+
 
 ---
 
@@ -162,7 +183,7 @@
 <!-- CERTIFICATIONS SECTION HEADER -->
 <p align="center">
   <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f393/512.gif" width="30" alt="Graduation cap" />
-  <img src="https://img.shields.io/badge/CERTIFICATIONS-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Certifications" />
+  <img src="https://img.shields.io/badge/CERTIFICATES-cba6f7?style=flat-square&labelColor=1e1e2e" alt="CERTIFICATES" />
 </p>
 
 
@@ -300,10 +321,5 @@
 
 <!-- FINAL TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Learning+Cybersecurity;Exploring+Ethical+Hacking;Building+My+Future" />
-</p>
-
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=CBA6F7&center=true&vCenter=true&width=500&lines=Learning+Cybersecurity;Exploring+Ethical+Hacking;Building+My+Future" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=600&height=80&lines=Think+Deeply.;Question+Everything.;Understand+Before+Building." alt="Personal philosophy" />
 </p>
