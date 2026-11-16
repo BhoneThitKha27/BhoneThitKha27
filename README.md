@@ -197,6 +197,7 @@
 <details>
   
 <summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cisco/89B4FA" height="24" alt="Cisco" />
   <img src="https://img.shields.io/badge/Cisco_Networking_Academy-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="Cisco Networking Academy" />
   <img src="https://img.shields.io/badge/01_certificate-89B4FA?style=flat-square&labelColor=313244" alt="1 certificate" />
@@ -220,6 +221,7 @@
 <details>
   
 <summary>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/freecodecamp/CBA6F7" height="24" alt="freeCodeCamp" />
   <img src="https://img.shields.io/badge/freeCodeCamp-CBA6F7?style=flat-square&labelColor=1E1E2E" alt="freeCodeCamp" />
   <img src="https://img.shields.io/badge/03_certificates-89B4FA?style=flat-square&labelColor=313244" alt="3 certificates" />
