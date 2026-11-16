@@ -347,7 +347,7 @@
   
 <summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/freecodecamp/0A0A23" height="24" alt="freeCodeCamp" />
+  <img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg" height="24" alt="freeCodeCamp" />
   <img src="https://img.shields.io/badge/freeCodeCamp-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="freeCodeCamp" />
 </summary>
 
@@ -471,5 +471,5 @@
 <!-- FINAL TYPING ANIMATION -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=FFFFFF&center=true&vCenter=true&width=600&height=80&lines=Think+Deeply.;Question+Everything.;Understand+Before+Building." alt="Personal philosophy" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1200&color=CBA6F7&center=true&vCenter=true&width=600&height=80&lines=Think+Deeply.;Question+Everything.;Understand+Before+Building." alt="Personal philosophy" />
 </p>
