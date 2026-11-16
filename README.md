@@ -347,7 +347,7 @@
   
 <summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.freecodecamp.org/platform/universal/fcc_primary.svg" height="24" alt="freeCodeCamp" />
+  <img src="https://design-style-guide.freecodecamp.org/img/fcc_primary_small.svg" height="24" alt="freeCodeCamp" />
   <img src="https://img.shields.io/badge/freeCodeCamp-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="freeCodeCamp" />
 </summary>
 
