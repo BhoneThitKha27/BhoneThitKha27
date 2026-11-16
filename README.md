@@ -347,7 +347,7 @@
   
 <summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/freecodecamp" height="24" alt="freeCodeCamp" />
+  <img src="https://cdn.simpleicons.org/freecodecamp/0A0A23" height="24" alt="freeCodeCamp" />
   <img src="https://img.shields.io/badge/freeCodeCamp-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="freeCodeCamp" />
 </summary>
 
@@ -419,7 +419,7 @@
 <!-- LEETCODE ACTIVITY & HEATMAP -->
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/bhonethitkha27?font=Fira_Code&ext=heatmap&colors=1e1e2e,313244,45475a,6e4a8e,345b78,804d6b,286b64,3f694b" />
+  <img src="https://leetcard.jacoblin.cool/bhonethitkha27?font=Fira_Code&ext=heatmap&colors=313244,585078,8065a8,a080d0,cba6f7,d9b8ff,e8d5ff,ffffff" />
 </p>
 
 
