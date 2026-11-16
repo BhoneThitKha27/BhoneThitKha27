@@ -17,12 +17,19 @@
 </h1>
 
 
+
 <!-- EDUCATION -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="40" alt="Mechanical gears" />
-  <img src="https://img.shields.io/badge/5th Mechanical_Engineering-89b4fa?style=flat-square&labelColor=1e1e2e" alt="Mechanical Engineering" />
-  <img src="https://img.shields.io/badge/Polytechnic_University_of_Mawlamyine-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Polytechnic University of Mawlamyine" />
+  <img src="https://github.com/user-attachments/assets/a9426dd0-f589-48fd-84dc-85aaa6da41f7" width="32" alt="Mechanical Engineering" />
+  <br>
+  <img src="https://img.shields.io/badge/Mechanical_Engineering-89b4fa?style=flat-square&labelColor=1e1e2e" alt="Field of Study" />
+  <img src="https://img.shields.io/badge/5th_Year_Student-cba6f7?style=flat-square&labelColor=1e1e2e" alt="Current Academic Year" />
+  <br>
+  <img src="https://img.shields.io/badge/Polytechnic_University_of_Mawlamyine-cdd6f4?style=flat-square&labelColor=1e1e2e" alt="University" />
+  <br>
+  <sub>Undergraduate Studies · In Progress</sub>
 </p>
+
 
 ---
 
