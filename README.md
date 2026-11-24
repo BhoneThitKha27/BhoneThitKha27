@@ -292,9 +292,66 @@
 
 
 
+<!-- SOLIDWORKS xMOLD ASSOCIATE -->
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/19ahH_OHSUAFFquqQkAlIeHHsdXKZaULv/view">
+    <img src="https://drive.google.com/thumbnail?id=19ahH_OHSUAFFquqQkAlIeHHsdXKZaULv&sz=w600" width="55%" alt="SOLIDWORKS xMold Associate certificate" />
+  </a>
+  <br />
+  <strong>SOLIDWORKS xMold Associate</strong>
+  <br />
+  <sub>24 November 2026</sub>
+</p>
+
+
+
+
+<!-- SOLIDWORKS xSHAPE ASSOCIATE -->
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/19VQVW6JSLRcQbiUqacQgloAhDaxhIkbF/view">
+    <img src="https://drive.google.com/thumbnail?id=19VQVW6JSLRcQbiUqacQgloAhDaxhIkbF&sz=w600" width="55%" alt="SOLIDWORKS xShape Associate certificate" />
+  </a>
+  <br />
+  <strong>SOLIDWORKS xShape Associate</strong>
+  <br />
+  <sub>24 November 2026</sub>
+</p>
+
+
+
+
+<!-- SOLIDWORKS xDESIGN ASSOCIATE -->
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1k-NMqAqvciYmPnpsGgMh8YpcqSaim0_6/view">
+    <img src="https://drive.google.com/thumbnail?id=1k-NMqAqvciYmPnpsGgMh8YpcqSaim0_6&sz=w600" width="55%" alt="SOLIDWORKS xDesign Associate certificate" />
+  </a>
+  <br />
+  <strong>SOLIDWORKS xDesign Associate</strong>
+  <br />
+  <sub>24 November 2026</sub>
+</p>
+
+
+
+
+<!-- SOLIDWORKS ELECTRICAL DESIGN ASSOCIATE -->
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/1v9caAna7FaH9ixpjcPR3CggjLSfqeinf/view">
+    <img src="https://drive.google.com/thumbnail?id=1v9caAna7FaH9ixpjcPR3CggjLSfqeinf&sz=w600" width="55%" alt="SOLIDWORKS Electrical Design Associate certificate" />
+  </a>
+  <br />
+  <strong>SOLIDWORKS Electrical Design Associate</strong>
+  <br />
+  <sub>24 November 2026</sub>
+</p>
 
 
 </details>
+
 
 
 
