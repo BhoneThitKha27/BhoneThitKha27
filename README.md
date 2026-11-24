@@ -367,7 +367,7 @@
   <img src="https://cdn.simpleicons.org/cisco" height="24" alt="Cisco" />
   <img src="https://img.shields.io/badge/Cisco_Networking_Academy-67458A?style=flat-square&labelColor=1E1E2E" alt="Cisco Networking Academy" />
   <img src="https://img.shields.io/badge/IT_FUNDAMENTALS-555B91?style=flat-square&labelColor=1E1E2E" alt="IT Fundamentals" />
-  <img src="https://img.shields.io/badge/TECHNICAL_COURSES-286B64?style=flat-square&labelColor=1E1E2E" alt="Technical Courses" />
+  <img src="https://img.shields.io/badge/TECHNICAL_COURSES-854F78?style=flat-square&labelColor=1E1E2E" alt="Technical Courses" />
 </summary>
 
 <br />
@@ -399,9 +399,9 @@
 <summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://design-style-guide.freecodecamp.org/img/fcc_primary_small.svg" height="24" alt="freeCodeCamp" />
-  <img src="https://img.shields.io/badge/freeCodeCamp-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="freeCodeCamp" />
-  <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-6e4a8e?style=flat-square&labelColor=1e1e2e" alt="PROGRAMMING FUNDAMENTALS" />
-  <img src="https://img.shields.io/badge/PROJECT--BASED_COURSES-804652?style=flat-square&labelColor=1e1e2e" alt="Project-Based Courses" />
+  <img src="https://img.shields.io/badge/freeCodeCamp-67458A?style=flat-square&labelColor=1E1E2E" alt="freeCodeCamp" />
+  <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-555B91?style=flat-square&labelColor=1E1E2E" alt="Programming Fundamentals" />
+  <img src="https://img.shields.io/badge/PROJECT--BASED_COURSES-854F78?style=flat-square&labelColor=1E1E2E" alt="Project-Based Courses" />
 </summary>
 
 <br />
