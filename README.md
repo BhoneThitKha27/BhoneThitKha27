@@ -254,6 +254,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://brandslogos.com/wp-content/uploads/images/solidworks-logo.png" width="28" height="28" alt="SOLIDWORKS" />
   <img src="https://img.shields.io/badge/SOLIDWORKS-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="SOLIDWORKS" />
+  <img src="https://img.shields.io/badge/3D_CAD_Design-6e4a8e?style=flat-square&labelColor=1e1e2e" />
 </summary>
 
 <br />
