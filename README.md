@@ -246,7 +246,7 @@
 
 
 
-<!-- DASSAULT SYSTÈMES CERTIFICATES -->
+<!-- SOLIDWORKS CERTIFICATES -->
 
 <details>
   
@@ -257,6 +257,25 @@
 </summary>
 
 <br />
+
+
+
+
+<!-- SOLIDWORKS ADDITIVE MANUFACTURING ASSOCIATE -->
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/11ga5L4b4wwBavLwt0lhBNRsSsFcQT2YY/view">
+    <img src="https://drive.google.com/thumbnail?id=11ga5L4b4wwBavLwt0lhBNRsSsFcQT2YY&sz=w600" width="55%" alt="SOLIDWORKS Additive Manufacturing Associate certificate" />
+  </a>
+  <br />
+  <strong>SOLIDWORKS Additive Manufacturing Associate</strong>
+  <br />
+  <sub>12 November 2026</sub>
+</p>
+
+
+
+
 
 <!-- SOLIDWORKS SUSTAINABILITY ASSOCIATE -->
 
@@ -273,17 +292,7 @@
 
 
 
-<!-- SOLIDWORKS ADDITIVE MANUFACTURING ASSOCIATE -->
 
-<p align="center">
-  <a href="https://drive.google.com/file/d/11ga5L4b4wwBavLwt0lhBNRsSsFcQT2YY/view">
-    <img src="https://drive.google.com/thumbnail?id=11ga5L4b4wwBavLwt0lhBNRsSsFcQT2YY&sz=w600" width="55%" alt="SOLIDWORKS Additive Manufacturing Associate certificate" />
-  </a>
-  <br />
-  <strong>SOLIDWORKS Additive Manufacturing Associate</strong>
-  <br />
-  <sub>12 November 2026</sub>
-</p>
 
 </details>
 
