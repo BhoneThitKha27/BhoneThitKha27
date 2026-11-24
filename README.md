@@ -252,8 +252,8 @@
   
 <summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/dassaultsystemes" height="24" alt="Dassault Systèmes" />
-  <img src="https://img.shields.io/badge/Dassault_Systèmes-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="Dassault Systèmes" />
+  <img src="https://cdn.simpleicons.org/solidworks" height="24" alt="SOLIDWORKS" />
+  <img src="https://img.shields.io/badge/SOLIDWORKS-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="SOLIDWORKS" />
 </summary>
 
 <br />
