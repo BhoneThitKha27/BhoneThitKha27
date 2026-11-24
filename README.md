@@ -252,7 +252,7 @@
   
 <summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://imglogo.com/wp-content/uploads/2025/09/solidworks-icon.png" width="28" height="28" alt="SOLIDWORKS" />
+  <img src="https://brandslogos.com/wp-content/uploads/images/solidworks-logo.png" width="28" height="28" alt="SOLIDWORKS" />
   <img src="https://img.shields.io/badge/SOLIDWORKS-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="SOLIDWORKS" />
 </summary>
 
