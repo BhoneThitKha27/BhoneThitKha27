@@ -371,6 +371,9 @@
 
 <br />
 
+
+
+
 <!-- INTRODUCTION TO CYBERSECURITY -->
 
 <p align="center">
@@ -396,10 +399,14 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://design-style-guide.freecodecamp.org/img/fcc_primary_small.svg" height="24" alt="freeCodeCamp" />
   <img src="https://img.shields.io/badge/freeCodeCamp-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="freeCodeCamp" />
+  <img src="https://img.shields.io/badge/PROGRAMMING_FUNDAMENTALS-6e4a8e?style=flat-square&labelColor=1e1e2e" alt="PROGRAMMING FUNDAMENTALS" />
   <img src="https://img.shields.io/badge/PROJECT--BASED_COURSES-804652?style=flat-square&labelColor=1e1e2e" alt="Project-Based Courses" />
 </summary>
 
 <br />
+
+
+
 
 <!-- RESPONSIVE WEB DESIGN -->
 
