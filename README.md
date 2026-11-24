@@ -253,9 +253,9 @@
 <summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://brandslogos.com/wp-content/uploads/images/solidworks-logo.png" width="28" height="28" alt="SOLIDWORKS" />
-  <img src="https://img.shields.io/badge/SOLIDWORKS-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="SOLIDWORKS" />
-  <img src="https://img.shields.io/badge/3D_CAD_Design-6e4a8e?style=flat-square&labelColor=1e1e2e" />
-  <img src="https://img.shields.io/badge/VENDOR_QUALIFICATIONS-8839ef?style=flat-square&labelColor=1e1e2e&color=8839ef" alt="Vendor Qualifications" />
+  <img src="https://img.shields.io/badge/SOLIDWORKS-67458A?style=flat-square&labelColor=1E1E2E" alt="SOLIDWORKS" />
+  <img src="https://img.shields.io/badge/3D_CAD_Design-555B91?style=flat-square&labelColor=1E1E2E" alt="3D CAD Design" />
+  <img src="https://img.shields.io/badge/VENDOR_QUALIFICATIONS-854F78?style=flat-square&labelColor=1E1E2E" alt="Vendor Qualifications" />
 </summary>
 
 <br />
@@ -365,9 +365,9 @@
 <summary>
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cisco" height="24" alt="Cisco" />
-  <img src="https://img.shields.io/badge/Cisco_Networking_Academy-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="Cisco Networking Academy" />
-  <img src="https://img.shields.io/badge/IT_FUNDAMENTALS-6e4a8e?style=flat-square&labelColor=1e1e2e" alt="IT Fundamentals" />
-  <img src="https://img.shields.io/badge/TECHNICAL_COURSES-286b64?style=flat-square&labelColor=1e1e2e" alt="Technical Courses" />
+  <img src="https://img.shields.io/badge/Cisco_Networking_Academy-67458A?style=flat-square&labelColor=1E1E2E" alt="Cisco Networking Academy" />
+  <img src="https://img.shields.io/badge/IT_FUNDAMENTALS-555B91?style=flat-square&labelColor=1E1E2E" alt="IT Fundamentals" />
+  <img src="https://img.shields.io/badge/TECHNICAL_COURSES-286B64?style=flat-square&labelColor=1E1E2E" alt="Technical Courses" />
 </summary>
 
 <br />
