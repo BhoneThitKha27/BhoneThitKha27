@@ -366,6 +366,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cisco" height="24" alt="Cisco" />
   <img src="https://img.shields.io/badge/Cisco_Networking_Academy-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="Cisco Networking Academy" />
+  <img src="https://img.shields.io/badge/IT_FUNDAMENTALS-6e4a8e?style=flat-square&labelColor=1e1e2e" alt="IT Fundamentals" />
   <img src="https://img.shields.io/badge/TECHNICAL_COURSES-286b64?style=flat-square&labelColor=1e1e2e" alt="Technical Courses" />
 </summary>
 
