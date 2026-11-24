@@ -255,6 +255,7 @@
   <img src="https://brandslogos.com/wp-content/uploads/images/solidworks-logo.png" width="28" height="28" alt="SOLIDWORKS" />
   <img src="https://img.shields.io/badge/SOLIDWORKS-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="SOLIDWORKS" />
   <img src="https://img.shields.io/badge/3D_CAD_Design-6e4a8e?style=flat-square&labelColor=1e1e2e" />
+  <img src="https://img.shields.io/badge/VENDOR_QUALIFICATIONS-8839ef?style=flat-square&labelColor=1e1e2e&color=8839ef" alt="Vendor Qualifications" />
 </summary>
 
 <br />
@@ -365,6 +366,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/cisco" height="24" alt="Cisco" />
   <img src="https://img.shields.io/badge/Cisco_Networking_Academy-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="Cisco Networking Academy" />
+  <img src="https://img.shields.io/badge/TECHNICAL_COURSES-286b64?style=flat-square&labelColor=1e1e2e" alt="Technical Courses" />
 </summary>
 
 <br />
@@ -394,6 +396,7 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://design-style-guide.freecodecamp.org/img/fcc_primary_small.svg" height="24" alt="freeCodeCamp" />
   <img src="https://img.shields.io/badge/freeCodeCamp-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="freeCodeCamp" />
+  <img src="https://img.shields.io/badge/PROJECT--BASED_COURSES-804652?style=flat-square&labelColor=1e1e2e" alt="Project-Based Courses" />
 </summary>
 
 <br />
