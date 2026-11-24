@@ -246,18 +246,6 @@
 
 
 
-<!-- ========================================= -->
-<!-- INDUSTRY CERTIFICATES -->
-<!-- ========================================= -->
-
-<p align="left">
-  <img src="https://cdn-icons-gif.flaticon.com/15579/15579085.gif" width="30" alt="Industry certification badge" />
-  <img src="https://img.shields.io/badge/INDUSTRY_CERTIFICATES_(VERIFIABLE)-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="Industry Certificates (Verifiable)" />
-</p>
-
-
-
-
 <!-- DASSAULT SYSTÈMES CERTIFICATES -->
 
 <details>
@@ -298,18 +286,6 @@
 </p>
 
 </details>
-
-
-
-
-<!-- ========================================= -->
-<!-- COURSE COMPLETION CERTIFICATES -->
-<!-- ========================================= -->
-
-<p align="left">
-  <img src="https://cdn-icons-gif.flaticon.com/15579/15579085.gif" width="30" alt="Animated certification badge" />
-  <img src="https://img.shields.io/badge/COURSE_COMPLETION_CERTIFICATES_(VERIFIABLE)-6E4A8E?style=flat-square&labelColor=1E1E2E" alt="Course Completion Certificates (Verifiable)" />
-</p>
 
 
 
